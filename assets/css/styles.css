@@ -547,7 +547,7 @@ body.dark-theme{
 }
 
 .recently__img{
-  width: 300px;
+  width: 350px;
   justify-self: center;
 
 }
@@ -906,5 +906,17 @@ body.dark-theme{
   }
   .popular__container span{
     align-items: center;
+  }
+
+  .footer__content {
+    grid-template-columns: repeat(4,max-content);
+    gap: 13.5rem;
+    margin-left: 10%;
+}
+
+  .scrollup{
+    padding: 1rem;
+    border-radius: 1.25rem;
+    font-size: 2rem;
   }
 }
