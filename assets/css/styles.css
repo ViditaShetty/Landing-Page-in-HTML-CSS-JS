@@ -458,7 +458,7 @@ body.dark-theme{
 
 .popular__img{
 
-  width: 220px;
+  width: 180px;
   position: absolute;
   inset: 0;
   top: -2.5rem;
@@ -876,7 +876,7 @@ body.dark-theme{
 
   .about{
     margin: -10%;
-    padding: 0% 20% 10%;
+    padding: 6% 20% 10%;
   }
   .about__container{
     display: flex;
